@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Word UP!</string>
+    <string name="stringPass"><u>Forgot Password?</u></string>
+    <string name="stringUser"><u>Forgot Username?</u></string>
+</resources>
