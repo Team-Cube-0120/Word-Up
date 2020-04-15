@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Bashe\\Documents\\JD2020\\Folder\\Word-Up\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Bhargavasai\\Desktop\\Word-Up\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Bashe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\6e5ab70941b48ea0bb9b30be7bc6dde4\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Bhargavasai\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\67b27f6f5c1cb08445243bc0709e6578\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Bashe\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-26.0.0.aar\\64a5658957f4788da86fb26cfad67579\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Bhargavasai\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-26.0.0.aar\\26a26a36ae06e58e90e20899a4190781\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
