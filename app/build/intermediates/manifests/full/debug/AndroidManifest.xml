@@ -81,6 +81,21 @@
                     android:scheme="https" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="e.gatech.wordup.demo.CreateAcct"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter android:order="1" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="gatech.e"
+                    android:pathPattern="/.*"
+                    android:scheme="https" />
+            </intent-filter>
+        </activity>
 
         <meta-data
             android:name="aia-compat-api-min-version"

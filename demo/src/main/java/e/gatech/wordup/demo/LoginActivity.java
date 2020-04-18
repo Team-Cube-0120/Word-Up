@@ -29,7 +29,7 @@ public final class LoginActivity extends AppCompatActivity {
         create.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(LoginActivity.this, create_event.class);
+                Intent intent = new Intent(LoginActivity.this, CreateAcct.class);
                 startActivity(intent);
             }
         });

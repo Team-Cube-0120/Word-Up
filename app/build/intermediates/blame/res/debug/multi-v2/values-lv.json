@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Bashe\\Documents\\JD2020\\Word-Up\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lv\\values-lv.xml",
+            "outputFile": "C:\\Users\\mario\\Documents\\Schoo;\\research\\Word UP\\Word-Up\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lv\\values-lv.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Bashe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\6e5ab70941b48ea0bb9b30be7bc6dde4\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\ac754b11ef632bc5dfd59224a0416f5d\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
