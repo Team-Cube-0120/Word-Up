@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Bashe\\Downloads\\Word-Up-masterX\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Bashe\\Documents\\JD2020\\Word-Up\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\Bashe\\Downloads\\Word-Up-masterX\\base\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,6,11,16,21,22,23,24,25,26,27,28,29,30",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,257,1982,3572,3765,3805,3844,3890,3937,3988,4028,4074,4137,4200",
-                        "endLines": "5,10,15,20,21,22,23,24,25,26,27,28,29,35",
-                        "endColumns": "12,19,19,12,39,38,45,46,50,39,45,62,62,12",
-                        "endOffsets": "252,1977,3567,3760,3800,3839,3885,3932,3983,4023,4069,4132,4195,4514"
-                    },
-                    "to": {
-                        "startLines": "2,6,11,16,165,166,179,180,181,235,831,842,843,853",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,302,2027,3617,10852,10892,11821,11867,11914,15511,71357,72695,72758,73550",
-                        "endLines": "5,10,15,20,165,166,179,180,181,235,831,842,843,858",
-                        "endColumns": "12,19,19,12,39,38,45,46,50,39,45,62,62,12",
-                        "endOffsets": "297,2022,3612,3805,10887,10926,11862,11909,11960,15546,71398,72753,72816,73864"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Bashe\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-26.0.0.aar\\56bd4d1c53c73b85dabb6d0e80b485c9\\res\\values\\values.xml",
                     "from": {
@@ -166,6 +147,25 @@
                         "startOffsets": "67417,67627,67766,67813,67868,68155,68209,68261,68310,68371",
                         "endColumns": "39,42,46,54,44,53,51,48,60,49",
                         "endOffsets": "67452,67665,67808,67863,67908,68204,68256,68305,68366,68416"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Bashe\\Documents\\JD2020\\Word-Up\\base\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,6,11,16,21,22,23,24,25,26,27,28,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,257,1982,3572,3765,3805,3844,3890,3937,3988,4028,4074,4137,4200",
+                        "endLines": "5,10,15,20,21,22,23,24,25,26,27,28,29,35",
+                        "endColumns": "12,19,19,12,39,38,45,46,50,39,45,62,62,12",
+                        "endOffsets": "252,1977,3567,3760,3800,3839,3885,3932,3983,4023,4069,4132,4195,4514"
+                    },
+                    "to": {
+                        "startLines": "2,6,11,16,165,166,179,180,181,235,831,842,843,853",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,302,2027,3617,10852,10892,11821,11867,11914,15511,71357,72695,72758,73550",
+                        "endLines": "5,10,15,20,165,166,179,180,181,235,831,842,843,858",
+                        "endColumns": "12,19,19,12,39,38,45,46,50,39,45,62,62,12",
+                        "endOffsets": "297,2022,3612,3805,10887,10926,11862,11909,11960,15546,71398,72753,72816,73864"
                     }
                 }
             ]

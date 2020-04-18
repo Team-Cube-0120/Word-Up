@@ -3,7 +3,7 @@
     package="e.gatech.wordup.demo">
 
     <application>
-        <activity android:name=".LoginActivity">
+        <activity android:name=".LoginActivity" android:windowSoftInputMode="adjustPan">
             <intent-filter android:order="1">
                 <action android:name="android.intent.action.VIEW" />
 
@@ -21,7 +21,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity" android:windowSoftInputMode="adjustPan">
             <intent-filter android:order="1">
                 <action android:name="android.intent.action.VIEW" />
 
@@ -34,7 +34,20 @@
                     android:scheme="https" />
             </intent-filter>
         </activity>
-        <activity android:name=".main_Actvity_two">
+        <activity android:name=".main_Actvity_two" android:windowSoftInputMode="adjustPan">
+            <intent-filter android:order="1">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="gatech.e"
+                    android:pathPattern="/.*"
+                    android:scheme="https" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".create_event" android:windowSoftInputMode="adjustPan">
             <intent-filter android:order="1">
                 <action android:name="android.intent.action.VIEW" />
 

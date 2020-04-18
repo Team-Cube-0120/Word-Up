@@ -24,6 +24,15 @@ public final class LoginActivity extends AppCompatActivity {
         catch (NullPointerException e){}
 
         Button login = (Button) findViewById(R.id.loginButton);
+        Button create  = (Button) findViewById(R.id.createButton);
+
+        create.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(LoginActivity.this, create_event.class);
+                startActivity(intent);
+            }
+        });
 
         login.setOnClickListener(new View.OnClickListener() {
             @Override
